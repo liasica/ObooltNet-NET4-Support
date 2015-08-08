@@ -1,0 +1,17 @@
+D:\_Dev\C Sharp\_test\SocketTest\SocketTest_server\bin\Debug\SocketTest_server.exe
+D:\_Dev\C Sharp\_test\SocketTest\SocketTest_server\bin\Debug\SocketTest_server.pdb
+D:\_Dev\C Sharp\_test\SocketTest\SocketTest_server\bin\Debug\ObooltNet.dll
+D:\_Dev\C Sharp\_test\SocketTest\SocketTest_server\bin\Debug\Microsoft.CompilerServices.AsyncTargetingPack.Net4.dll
+D:\_Dev\C Sharp\_test\SocketTest\SocketTest_server\bin\Debug\ObooltNet.pdb
+D:\_Dev\C Sharp\_test\SocketTest\SocketTest_server\bin\Debug\Microsoft.CompilerServices.AsyncTargetingPack.Net4.xml
+D:\_Dev\C Sharp\_test\SocketTest\SocketTest_server\obj\Debug\SocketTest_server.exe
+D:\_Dev\C Sharp\_test\SocketTest\SocketTest_server\obj\Debug\SocketTest_server.pdb
+C:\Users\liser\Documents\GitHub\ObooltNet-NET4-Support\SocketTest\SocketTest_server\obj\Debug\SocketTest_server.exe
+C:\Users\liser\Documents\GitHub\ObooltNet-NET4-Support\SocketTest\SocketTest_server\obj\Debug\SocketTest_server.pdb
+C:\Users\liser\Documents\GitHub\ObooltNet-NET4-Support\SocketTest\SocketTest_server\bin\Debug\SocketTest_server.exe
+C:\Users\liser\Documents\GitHub\ObooltNet-NET4-Support\SocketTest\SocketTest_server\bin\Debug\SocketTest_server.pdb
+C:\Users\liser\Documents\GitHub\ObooltNet-NET4-Support\SocketTest\SocketTest_server\bin\Debug\ObooltNet.dll
+C:\Users\liser\Documents\GitHub\ObooltNet-NET4-Support\SocketTest\SocketTest_server\bin\Debug\Microsoft.CompilerServices.AsyncTargetingPack.Net4.dll
+C:\Users\liser\Documents\GitHub\ObooltNet-NET4-Support\SocketTest\SocketTest_server\bin\Debug\ObooltNet.pdb
+C:\Users\liser\Documents\GitHub\ObooltNet-NET4-Support\SocketTest\SocketTest_server\bin\Debug\Microsoft.CompilerServices.AsyncTargetingPack.Net4.xml
+C:\Users\liser\Documents\GitHub\ObooltNet-NET4-Support\SocketTest\SocketTest_server\obj\Debug\SocketTest_server.csprojResolveAssemblyReference.cache

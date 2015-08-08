@@ -1,0 +1,7 @@
+C:\Users\liser\Documents\GitHub\ObooltNet\Source\ObooltNet\obj\Debug\ObooltNet.csprojResolveAssemblyReference.cache
+C:\Users\liser\Documents\GitHub\ObooltNet\Source\ObooltNet\bin\Debug\ObooltNet.dll
+C:\Users\liser\Documents\GitHub\ObooltNet\Source\ObooltNet\bin\Debug\ObooltNet.pdb
+C:\Users\liser\Documents\GitHub\ObooltNet\Source\ObooltNet\obj\Debug\ObooltNet.dll
+C:\Users\liser\Documents\GitHub\ObooltNet\Source\ObooltNet\obj\Debug\ObooltNet.pdb
+C:\Users\liser\Documents\GitHub\ObooltNet\Source\ObooltNet\bin\Debug\Microsoft.CompilerServices.AsyncTargetingPack.Net4.dll
+C:\Users\liser\Documents\GitHub\ObooltNet\Source\ObooltNet\bin\Debug\Microsoft.CompilerServices.AsyncTargetingPack.Net4.xml
